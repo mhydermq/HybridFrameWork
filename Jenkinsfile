@@ -1,17 +1,15 @@
 pipeline {
   agent any
   stages {
-    stage('build') {
+    stage('checkout') {
       steps {
-        echo 'building'
+        git 'https://github.com/mhydermq/HybridFrameWork.git'
       }
     }
-
     stage('test') {
       steps {
-        echo 'testing'
+        bat 'mvn test'
       }
     }
-
   }
 }
