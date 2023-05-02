@@ -4,6 +4,10 @@ import com.relevantcodes.extentreports.ExtentReports;
 import com.relevantcodes.extentreports.ExtentTest;
 import com.relevantcodes.extentreports.LogStatus;
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> cda4c41 (HybridFrameWork)
 public class Reports {
 
 	public static ExtentReports extent;
@@ -14,9 +18,17 @@ public class Reports {
 
 		/*Create ExtentReports object passing location and report name as argument. 
 		 * Notice a new Result Log folder will be created inside project and 
+<<<<<<< HEAD
 		 * the report name will be TestReport.html*/
 		extent = new ExtentReports(Constants.sReportFileName, false);
 
+=======
+		 * the report name will be TestReport.html
+		 */
+		extent = new ExtentReports(Constants.sReportFileName, false);
+
+
+>>>>>>> cda4c41 (HybridFrameWork)
 		// Add details to our report
 		extent.addSystemInfo("Selenium Version", "3.0.1").addSystemInfo("Environment", "QA");
 
@@ -44,4 +56,8 @@ public class Reports {
 		extent.flush();
 		extent.close();
 	}
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> cda4c41 (HybridFrameWork)

@@ -1,0 +1,18 @@
+2021-04-19 03:22:03 INFO  Log:12 - ****************************************************************************************
+2021-04-19 03:22:03 INFO  Log:13 - $$$$$$$$$$$$$$$$$$$$$                 firstTestCase       $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-04-19 03:22:03 INFO  Log:14 - ****************************************************************************************
+2021-04-19 03:22:05 INFO  Log:23 - Page Factory initialized
+2021-04-19 03:22:08 INFO  Log:23 - Demo URL Launched
+2021-04-19 03:22:08 INFO  Log:23 - Wait for element User Name text box
+2021-04-19 03:22:09 INFO  Log:23 - Screenshot captured
+2021-04-19 03:22:09 INFO  Log:23 - Enter text Exception
+2021-04-19 03:22:10 INFO  Log:19 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2021-04-19 03:22:10 INFO  Log:12 - ****************************************************************************************
+2021-04-19 03:22:10 INFO  Log:13 - $$$$$$$$$$$$$$$$$$$$$                 secondTestCase       $$$$$$$$$$$$$$$$$$$$$$$$$
+2021-04-19 03:22:10 INFO  Log:14 - ****************************************************************************************
+2021-04-19 03:22:12 INFO  Log:23 - Page Factory initialized
+2021-04-19 03:22:15 INFO  Log:23 - Demo URL Launched
+2021-04-19 03:22:15 INFO  Log:23 - Wait for element User Name text box
+2021-04-19 03:22:16 INFO  Log:23 - Screenshot captured
+2021-04-19 03:22:16 INFO  Log:23 - Enter text Exception
+2021-04-19 03:22:17 INFO  Log:19 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX

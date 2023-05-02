@@ -1,0 +1,18 @@
+2020-10-18 23:18:04 INFO  Log:12 - ****************************************************************************************
+2020-10-18 23:18:04 INFO  Log:13 - $$$$$$$$$$$$$$$$$$$$$                 firstTestCase       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-10-18 23:18:04 INFO  Log:14 - ****************************************************************************************
+2020-10-18 23:18:09 INFO  Log:23 - Page Factory initialized
+2020-10-18 23:18:12 INFO  Log:23 - Demo URL Launched
+2020-10-18 23:18:12 INFO  Log:23 - Wait for element User Name text box
+2020-10-18 23:18:13 INFO  Log:23 - Screenshot captured
+2020-10-18 23:18:13 INFO  Log:23 - Enter text Exception
+2020-10-18 23:18:14 INFO  Log:19 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-10-18 23:18:14 INFO  Log:12 - ****************************************************************************************
+2020-10-18 23:18:14 INFO  Log:13 - $$$$$$$$$$$$$$$$$$$$$                 secondTestCase       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-10-18 23:18:14 INFO  Log:14 - ****************************************************************************************
+2020-10-18 23:18:18 INFO  Log:23 - Page Factory initialized
+2020-10-18 23:18:20 INFO  Log:23 - Demo URL Launched
+2020-10-18 23:18:20 INFO  Log:23 - Wait for element User Name text box
+2020-10-18 23:18:21 INFO  Log:23 - Screenshot captured
+2020-10-18 23:18:21 INFO  Log:23 - Enter text Exception
+2020-10-18 23:18:22 INFO  Log:19 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
